@@ -1,6 +1,6 @@
 {
-  "name": "@barnstorm/framework",
-  "version": "0.0.1",
+  "name": "@barnstorm/framework-base",
+  "version": "0.0.0",
   "description": "Package with all components",
   "main": "index.js",
   "scripts": {

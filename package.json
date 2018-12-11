@@ -1,5 +1,5 @@
 {
-  "name": "barnstorm-framework",
+  "name": "@barnstorm/framework",
   "version": "0.0.0",
   "description": "Barnstorm Core Components",
   "main": "index.js",
